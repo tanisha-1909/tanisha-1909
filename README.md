@@ -16,11 +16,14 @@ I love working on full-stack projects and collaborating on innovative ideas!
 
 ## 🚀 My GitHub Activity
 
-[![Tanisha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanishaMahavar&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Tanisha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanisha-1909&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishaMahavar&show_icons=true&theme=react)
+![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanisha-1909&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaMahavar&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-1909&layout=compact&theme=react)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanisha-1909&theme=react)](https://git.io/streak-stats)
+
 
 
 ## 📫 Let's Connect!
