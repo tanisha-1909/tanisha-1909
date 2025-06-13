@@ -14,6 +14,13 @@ I love working on full-stack projects and collaborating on innovative ideas!
 - **Core Competencies:** Data Structures & Algorithms, OOP, DBMS, Version Control (Git, GitHub)
 - **Web Development:** React, MongoDB Atlas, Express.js, API Integration, Render, Postman
 
+## 🚀 My GitHub Activity
+
+[![Tanisha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanishaMahavar&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishaMahavar&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaMahavar&layout=compact&theme=react)
 
 
 ## 📫 Let's Connect!
