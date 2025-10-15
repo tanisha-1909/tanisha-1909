@@ -4,9 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Poornima College of Engineering, Jaipur**, passionate about solving real-world problems through code.  
-With over **700+ algorithmic challenges** solved across platforms, I combine logic, creativity, and curiosity to build impactful solutions.  
-I love working on full-stack projects and collaborating on innovative ideas!
+I love to code !
 
 ## 💻 My Skills
 
